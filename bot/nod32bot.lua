@@ -501,16 +501,15 @@ teleseedteam Commands list :
 
 11-bot number & support ^
 
-!botnumber
-دریافت شماره ربات
 
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
 channel: @teleseedteamch
 sudo @mostafa_pt
-
-G00D LUCK ^_^
+channel2 @kalilinuxchannel
+github https://github.com/mostafa1382/teleseedteam
+ ^_^
 ]]
    }
   serialize_to_file(config, './data/config.lua')
