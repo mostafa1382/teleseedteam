@@ -214,7 +214,6 @@ function create_config( )
     "anti_spam",
     "anti_chat",
     "banhammer",
-    "boobs",
     "bot_manager",
     "botnumber",
     "broadcast",
@@ -245,14 +244,14 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {193786098},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+https://github.com/mostafa1382/teleseedteam
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : @teleseedteamvh
+sodu : @mostafa_pt
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -317,11 +316,11 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+ch: @teleseedteamch
 
 ]],
     help_text = [[
-NOD32 Commands list :
+teleseedteam Commands list :
  
 1-banhammer list ^
  
@@ -505,20 +504,11 @@ NOD32 Commands list :
 !botnumber
 دریافت شماره ربات
 
-!support
-دعوت سازنده ربات به گروه
-(در صورت وجود مشکل)
-
-!version
-ورژن ربات
-
-!feedback (text)
-ارسال نظرات به سازنده
-
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+channel: @teleseedteamch
+sudo @mostafa_pt
 
 G00D LUCK ^_^
 ]]
